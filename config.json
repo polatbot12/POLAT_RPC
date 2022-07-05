@@ -1,0 +1,9 @@
+{
+  
+ "applicationid":"",
+ "name":"discord.com Admins @POLAT",
+ "details":"discord.com",
+ "state":"On PC", 
+ "imagename":"discord_admins",
+"token" : "put in secrets"
+} 
